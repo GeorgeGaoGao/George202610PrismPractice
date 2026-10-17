@@ -1,6 +1,8 @@
 E:\George202610PrismPractice\Login\bin\Debug\net10.0-windows7.0\Login.deps.json
 E:\George202610PrismPractice\Login\bin\Debug\net10.0-windows7.0\Login.dll
 E:\George202610PrismPractice\Login\bin\Debug\net10.0-windows7.0\Login.pdb
+E:\George202610PrismPractice\Login\bin\Debug\net10.0-windows7.0\Common.dll
+E:\George202610PrismPractice\Login\bin\Debug\net10.0-windows7.0\Common.pdb
 E:\George202610PrismPractice\Login\obj\Debug\net10.0-windows7.0\Login.csproj.AssemblyReference.cache
 E:\George202610PrismPractice\Login\obj\Debug\net10.0-windows7.0\Views\LoginView.baml
 E:\George202610PrismPractice\Login\obj\Debug\net10.0-windows7.0\Views\LoginView.g.cs
@@ -10,10 +12,9 @@ E:\George202610PrismPractice\Login\obj\Debug\net10.0-windows7.0\Login.GeneratedM
 E:\George202610PrismPractice\Login\obj\Debug\net10.0-windows7.0\Login.AssemblyInfoInputs.cache
 E:\George202610PrismPractice\Login\obj\Debug\net10.0-windows7.0\Login.AssemblyInfo.cs
 E:\George202610PrismPractice\Login\obj\Debug\net10.0-windows7.0\Login.csproj.CoreCompileInputs.cache
+E:\George202610PrismPractice\Login\obj\Debug\net10.0-windows7.0\Login.sourcelink.json
+E:\George202610PrismPractice\Login\obj\Debug\net10.0-windows7.0\Login.csproj.Up2Date
 E:\George202610PrismPractice\Login\obj\Debug\net10.0-windows7.0\Login.dll
 E:\George202610PrismPractice\Login\obj\Debug\net10.0-windows7.0\refint\Login.dll
 E:\George202610PrismPractice\Login\obj\Debug\net10.0-windows7.0\Login.pdb
 E:\George202610PrismPractice\Login\obj\Debug\net10.0-windows7.0\ref\Login.dll
-E:\George202610PrismPractice\Login\obj\Debug\net10.0-windows7.0\Login.csproj.Up2Date
-E:\George202610PrismPractice\Login\bin\Debug\net10.0-windows7.0\Common.dll
-E:\George202610PrismPractice\Login\bin\Debug\net10.0-windows7.0\Common.pdb

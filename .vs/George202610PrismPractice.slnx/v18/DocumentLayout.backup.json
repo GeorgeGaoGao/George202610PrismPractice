@@ -3,84 +3,108 @@
   "WorkspaceRootPath": "E:\\George202610PrismPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3E221AC-F5F0-4604-A8F4-BBBD5C466681}|Login\\Login.csproj|e:\\george202610prismpractice\\login\\loginmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3E221AC-F5F0-4604-A8F4-BBBD5C466681}|Login\\Login.csproj|solutionrelative:login\\loginmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A099BA6C-A63B-426D-1703-D5C423478415}|George202610PrismPractice\\Shell.csproj|e:\\george202610prismpractice\\george202610prismpractice\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A099BA6C-A63B-426D-1703-D5C423478415}|George202610PrismPractice\\Shell.csproj|solutionrelative:george202610prismpractice\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{626AF317-5146-4EB8-B617-C4E70785E8A2}|HomeModule\\HomeModule.csproj|e:\\george202610prismpractice\\homemodule\\homemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{626AF317-5146-4EB8-B617-C4E70785E8A2}|HomeModule\\HomeModule.csproj|solutionrelative:homemodule\\homemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A099BA6C-A63B-426D-1703-D5C423478415}|George202610PrismPractice\\Shell.csproj|e:\\george202610prismpractice\\george202610prismpractice\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A099BA6C-A63B-426D-1703-D5C423478415}|George202610PrismPractice\\Shell.csproj|solutionrelative:george202610prismpractice\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5C17FB2-56CD-45D7-ACDE-F2DF30AA1CF2}|George202610PrismPractice\\George202610PrismPractice.csproj|e:\\george202610prismpractice\\george202610prismpractice\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5C17FB2-56CD-45D7-ACDE-F2DF30AA1CF2}|George202610PrismPractice\\George202610PrismPractice.csproj|solutionrelative:george202610prismpractice\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|e:\\george202610prismpractice\\login\\loginmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\loginmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5C17FB2-56CD-45D7-ACDE-F2DF30AA1CF2}|George202610PrismPractice\\George202610PrismPractice.csproj|e:\\george202610prismpractice\\george202610prismpractice\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D5C17FB2-56CD-45D7-ACDE-F2DF30AA1CF2}|George202610PrismPractice\\George202610PrismPractice.csproj|solutionrelative:george202610prismpractice\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0A40DE1C-F6FA-4D71-4498-5EA363E1A0B1}|HomeModule\\HomeModule.csproj|e:\\george202610prismpractice\\homemodule\\homemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A40DE1C-F6FA-4D71-4498-5EA363E1A0B1}|HomeModule\\HomeModule.csproj|solutionrelative:homemodule\\homemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5C17FB2-56CD-45D7-ACDE-F2DF30AA1CF2}|George202610PrismPractice\\George202610PrismPractice.csproj|e:\\george202610prismpractice\\george202610prismpractice\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5C17FB2-56CD-45D7-ACDE-F2DF30AA1CF2}|George202610PrismPractice\\George202610PrismPractice.csproj|solutionrelative:george202610prismpractice\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A40DE1C-F6FA-4D71-4498-5EA363E1A0B1}|HomeModule\\HomeModule.csproj|e:\\george202610prismpractice\\homemodule\\homemodule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A40DE1C-F6FA-4D71-4498-5EA363E1A0B1}|HomeModule\\HomeModule.csproj|solutionrelative:homemodule\\homemodule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECCCBD68-2892-4479-A413-4EBB99DA8254}|Common\\Common.csproj|e:\\george202610prismpractice\\common\\attributes\\attributediagnostics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECCCBD68-2892-4479-A413-4EBB99DA8254}|Common\\Common.csproj|solutionrelative:common\\attributes\\attributediagnostics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\George202610PrismPractice\\George202610PrismPractice\\obj\\Debug\\net10.0-windows7.0\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:George202610PrismPractice\\obj\\Debug\\net10.0-windows7.0\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECCCBD68-2892-4479-A413-4EBB99DA8254}|Common\\Common.csproj|e:\\george202610prismpractice\\common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ECCCBD68-2892-4479-A413-4EBB99DA8254}|Common\\Common.csproj|solutionrelative:common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A099BA6C-A63B-426D-1703-D5C423478415}|George202610PrismPractice\\Shell.csproj|e:\\george202610prismpractice\\george202610prismpractice\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A099BA6C-A63B-426D-1703-D5C423478415}|George202610PrismPractice\\Shell.csproj|solutionrelative:george202610prismpractice\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5C17FB2-56CD-45D7-ACDE-F2DF30AA1CF2}|George202610PrismPractice\\Shell.csproj|e:\\george202610prismpractice\\george202610prismpractice\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5C17FB2-56CD-45D7-ACDE-F2DF30AA1CF2}|George202610PrismPractice\\Shell.csproj|solutionrelative:george202610prismpractice\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A099BA6C-A63B-426D-1703-D5C423478415}|George202610PrismPractice\\Shell.csproj|e:\\george202610prismpractice\\george202610prismpractice\\shell.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A099BA6C-A63B-426D-1703-D5C423478415}|George202610PrismPractice\\Shell.csproj|solutionrelative:george202610prismpractice\\shell.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5C17FB2-56CD-45D7-ACDE-F2DF30AA1CF2}|George202610PrismPractice\\George202610PrismPractice.csproj|e:\\george202610prismpractice\\george202610prismpractice\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D5C17FB2-56CD-45D7-ACDE-F2DF30AA1CF2}|George202610PrismPractice\\George202610PrismPractice.csproj|solutionrelative:george202610prismpractice\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|e:\\george202610prismpractice\\login\\login.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\login.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECCCBD68-2892-4479-A413-4EBB99DA8254}|Common\\Common.csproj|e:\\george202610prismpractice\\common\\attributes\\modulescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECCCBD68-2892-4479-A413-4EBB99DA8254}|Common\\Common.csproj|solutionrelative:common\\attributes\\modulescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|e:\\george202610prismpractice\\login\\login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECCCBD68-2892-4479-A413-4EBB99DA8254}|Common\\Common.csproj|e:\\george202610prismpractice\\common\\attributes\\georgemoduleattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECCCBD68-2892-4479-A413-4EBB99DA8254}|Common\\Common.csproj|solutionrelative:common\\attributes\\georgemoduleattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A40DE1C-F6FA-4D71-4498-5EA363E1A0B1}|HomeModule\\HomeModule.csproj|e:\\george202610prismpractice\\homemodule\\homemodule.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0A40DE1C-F6FA-4D71-4498-5EA363E1A0B1}|HomeModule\\HomeModule.csproj|solutionrelative:homemodule\\homemodule.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5C17FB2-56CD-45D7-ACDE-F2DF30AA1CF2}|George202610PrismPractice\\Shell.csproj|e:\\george202610prismpractice\\george202610prismpractice\\share\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5C17FB2-56CD-45D7-ACDE-F2DF30AA1CF2}|George202610PrismPractice\\Shell.csproj|solutionrelative:george202610prismpractice\\share\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|e:\\george202610prismpractice\\login\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3E221AC-F5F0-4604-A8F4-BBBD5C466681}|Login\\Login.csproj|e:\\george202610prismpractice\\login\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F3E221AC-F5F0-4604-A8F4-BBBD5C466681}|Login\\Login.csproj|solutionrelative:login\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{E15E491A-E872-91D8-DF7A-CA59C792F064}|Common\\Common.csproj|e:\\george202610prismpractice\\common\\attributes\\modulescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E491A-E872-91D8-DF7A-CA59C792F064}|Common\\Common.csproj|solutionrelative:common\\attributes\\modulescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3E221AC-F5F0-4604-A8F4-BBBD5C466681}|Login\\Login.csproj|e:\\george202610prismpractice\\login\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3E221AC-F5F0-4604-A8F4-BBBD5C466681}|Login\\Login.csproj|solutionrelative:login\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A099BA6C-A63B-426D-1703-D5C423478415}|George202610PrismPractice\\Shell.csproj|e:\\george202610prismpractice\\george202610prismpractice\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A099BA6C-A63B-426D-1703-D5C423478415}|George202610PrismPractice\\Shell.csproj|solutionrelative:george202610prismpractice\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{626AF317-5146-4EB8-B617-C4E70785E8A2}|HomeModule\\HomeModule.csproj|e:\\george202610prismpractice\\homemodule\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{626AF317-5146-4EB8-B617-C4E70785E8A2}|HomeModule\\HomeModule.csproj|solutionrelative:homemodule\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{E15E491A-E872-91D8-DF7A-CA59C792F064}|Common\\Common.csproj|e:\\george202610prismpractice\\common\\attributes\\attributediagnostics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E491A-E872-91D8-DF7A-CA59C792F064}|Common\\Common.csproj|solutionrelative:common\\attributes\\attributediagnostics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{626AF317-5146-4EB8-B617-C4E70785E8A2}|HomeModule\\HomeModule.csproj|e:\\george202610prismpractice\\homemodule\\views\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{626AF317-5146-4EB8-B617-C4E70785E8A2}|HomeModule\\HomeModule.csproj|solutionrelative:homemodule\\views\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E15E491A-E872-91D8-DF7A-CA59C792F064}|Common\\Common.csproj|e:\\george202610prismpractice\\common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E15E491A-E872-91D8-DF7A-CA59C792F064}|Common\\Common.csproj|solutionrelative:common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{626AF317-5146-4EB8-B617-C4E70785E8A2}|HomeModule\\HomeModule.csproj|e:\\george202610prismpractice\\homemodule\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{626AF317-5146-4EB8-B617-C4E70785E8A2}|HomeModule\\HomeModule.csproj|solutionrelative:homemodule\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A099BA6C-A63B-426D-1703-D5C423478415}|George202610PrismPractice\\Shell.csproj|e:\\george202610prismpractice\\george202610prismpractice\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A099BA6C-A63B-426D-1703-D5C423478415}|George202610PrismPractice\\Shell.csproj|solutionrelative:george202610prismpractice\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5C17FB2-56CD-45D7-ACDE-F2DF30AA1CF2}|George202610PrismPractice\\George202610PrismPractice.csproj|e:\\george202610prismpractice\\george202610prismpractice\\share\\viewnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5C17FB2-56CD-45D7-ACDE-F2DF30AA1CF2}|George202610PrismPractice\\George202610PrismPractice.csproj|solutionrelative:george202610prismpractice\\share\\viewnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E15E491A-E872-91D8-DF7A-CA59C792F064}|Common\\Common.csproj|e:\\george202610prismpractice\\common\\attributes\\georgemoduleattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E491A-E872-91D8-DF7A-CA59C792F064}|Common\\Common.csproj|solutionrelative:common\\attributes\\georgemoduleattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5C17FB2-56CD-45D7-ACDE-F2DF30AA1CF2}|George202610PrismPractice\\George202610PrismPractice.csproj|e:\\george202610prismpractice\\george202610prismpractice\\share\\regionnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5C17FB2-56CD-45D7-ACDE-F2DF30AA1CF2}|George202610PrismPractice\\George202610PrismPractice.csproj|solutionrelative:george202610prismpractice\\share\\regionnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A40DE1C-F6FA-4D71-4498-5EA363E1A0B1}|HomeModule\\HomeModule.csproj|e:\\george202610prismpractice\\homemodule\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A40DE1C-F6FA-4D71-4498-5EA363E1A0B1}|HomeModule\\HomeModule.csproj|solutionrelative:homemodule\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5C17FB2-56CD-45D7-ACDE-F2DF30AA1CF2}|George202610PrismPractice\\George202610PrismPractice.csproj|e:\\george202610prismpractice\\george202610prismpractice\\share\\modulenames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5C17FB2-56CD-45D7-ACDE-F2DF30AA1CF2}|George202610PrismPractice\\George202610PrismPractice.csproj|solutionrelative:george202610prismpractice\\share\\modulenames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A40DE1C-F6FA-4D71-4498-5EA363E1A0B1}|HomeModule\\HomeModule.csproj|e:\\george202610prismpractice\\homemodule\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0A40DE1C-F6FA-4D71-4498-5EA363E1A0B1}|HomeModule\\HomeModule.csproj|solutionrelative:homemodule\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A099BA6C-A63B-426D-1703-D5C423478415}|George202610PrismPractice\\Shell.csproj|e:\\george202610prismpractice\\george202610prismpractice\\share\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A099BA6C-A63B-426D-1703-D5C423478415}|George202610PrismPractice\\Shell.csproj|solutionrelative:george202610prismpractice\\share\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|e:\\george202610prismpractice\\login\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A40DE1C-F6FA-4D71-4498-5EA363E1A0B1}|HomeModule\\HomeModule.csproj|e:\\george202610prismpractice\\homemodule\\views\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A40DE1C-F6FA-4D71-4498-5EA363E1A0B1}|HomeModule\\HomeModule.csproj|solutionrelative:homemodule\\views\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A099BA6C-A63B-426D-1703-D5C423478415}|George202610PrismPractice\\Shell.csproj|e:\\george202610prismpractice\\george202610prismpractice\\share\\viewnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A099BA6C-A63B-426D-1703-D5C423478415}|George202610PrismPractice\\Shell.csproj|solutionrelative:george202610prismpractice\\share\\viewnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A099BA6C-A63B-426D-1703-D5C423478415}|George202610PrismPractice\\Shell.csproj|e:\\george202610prismpractice\\george202610prismpractice\\share\\regionnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A099BA6C-A63B-426D-1703-D5C423478415}|George202610PrismPractice\\Shell.csproj|solutionrelative:george202610prismpractice\\share\\regionnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A099BA6C-A63B-426D-1703-D5C423478415}|George202610PrismPractice\\Shell.csproj|e:\\george202610prismpractice\\george202610prismpractice\\share\\modulenames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A099BA6C-A63B-426D-1703-D5C423478415}|George202610PrismPractice\\Shell.csproj|solutionrelative:george202610prismpractice\\share\\modulenames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,84 +118,108 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login",
+              "DocumentMoniker": "E:\\George202610PrismPractice\\Login\\Login.csproj",
+              "RelativeDocumentMoniker": "Login\\Login.csproj",
+              "ToolTip": "E:\\George202610PrismPractice\\Login\\Login.csproj",
+              "RelativeToolTip": "Login\\Login.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-17T07:38:48.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "HomeModule.csproj",
+              "DocumentMoniker": "E:\\George202610PrismPractice\\HomeModule\\HomeModule.csproj",
+              "RelativeDocumentMoniker": "HomeModule\\HomeModule.csproj",
+              "ToolTip": "E:\\George202610PrismPractice\\HomeModule\\HomeModule.csproj",
+              "RelativeToolTip": "HomeModule\\HomeModule.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-17T07:32:36.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.csproj",
+              "DocumentMoniker": "E:\\George202610PrismPractice\\Login\\Login.csproj",
+              "RelativeDocumentMoniker": "Login\\Login.csproj",
+              "ToolTip": "E:\\George202610PrismPractice\\Login\\Login.csproj",
+              "RelativeToolTip": "Login\\Login.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-17T07:32:27.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "E:\\George202610PrismPractice\\George202610PrismPractice\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "George202610PrismPractice\\ViewModels\\MainWindowViewModel.cs",
               "ToolTip": "E:\\George202610PrismPractice\\George202610PrismPractice\\ViewModels\\MainWindowViewModel.cs",
               "RelativeToolTip": "George202610PrismPractice\\ViewModels\\MainWindowViewModel.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAADwvycAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAA0wEoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-17T03:18:00.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "E:\\George202610PrismPractice\\George202610PrismPractice\\App.xaml.cs",
               "RelativeDocumentMoniker": "George202610PrismPractice\\App.xaml.cs",
               "ToolTip": "E:\\George202610PrismPractice\\George202610PrismPractice\\App.xaml.cs",
               "RelativeToolTip": "George202610PrismPractice\\App.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-17T03:17:39.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "LoginView.xaml",
               "DocumentMoniker": "E:\\George202610PrismPractice\\Login\\Views\\LoginView.xaml",
               "RelativeDocumentMoniker": "Login\\Views\\LoginView.xaml",
               "ToolTip": "E:\\George202610PrismPractice\\Login\\Views\\LoginView.xaml",
               "RelativeToolTip": "Login\\Views\\LoginView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-17T05:07:02.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T05:07:02.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "LoginModule.cs",
               "DocumentMoniker": "E:\\George202610PrismPractice\\Login\\LoginModule.cs",
               "RelativeDocumentMoniker": "Login\\LoginModule.cs",
               "ToolTip": "E:\\George202610PrismPractice\\Login\\LoginModule.cs",
               "RelativeToolTip": "Login\\LoginModule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-17T05:06:03.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HomeModule.cs",
               "DocumentMoniker": "E:\\George202610PrismPractice\\HomeModule\\HomeModule.cs",
               "RelativeDocumentMoniker": "HomeModule\\HomeModule.cs",
               "ToolTip": "E:\\George202610PrismPractice\\HomeModule\\HomeModule.cs",
               "RelativeToolTip": "HomeModule\\HomeModule.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-17T04:00:18.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ModuleScanner.cs",
-              "DocumentMoniker": "E:\\George202610PrismPractice\\Common\\Attributes\\ModuleScanner.cs",
-              "RelativeDocumentMoniker": "Common\\Attributes\\ModuleScanner.cs",
-              "ToolTip": "E:\\George202610PrismPractice\\Common\\Attributes\\ModuleScanner.cs",
-              "RelativeToolTip": "Common\\Attributes\\ModuleScanner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T06:29:08.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "E:\\George202610PrismPractice\\George202610PrismPractice\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "George202610PrismPractice\\Views\\MainWindow.xaml",
@@ -183,7 +231,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "Shell",
+              "DocumentMoniker": "E:\\George202610PrismPractice\\George202610PrismPractice\\Shell.csproj",
+              "RelativeDocumentMoniker": "George202610PrismPractice\\Shell.csproj",
+              "ToolTip": "E:\\George202610PrismPractice\\George202610PrismPractice\\Shell.csproj",
+              "RelativeToolTip": "George202610PrismPractice\\Shell.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-17T08:12:20.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.g.cs",
+              "DocumentMoniker": "E:\\George202610PrismPractice\\George202610PrismPractice\\obj\\Debug\\net10.0-windows7.0\\App.g.cs",
+              "RelativeDocumentMoniker": "George202610PrismPractice\\obj\\Debug\\net10.0-windows7.0\\App.g.cs",
+              "ToolTip": "E:\\George202610PrismPractice\\George202610PrismPractice\\obj\\Debug\\net10.0-windows7.0\\App.g.cs",
+              "RelativeToolTip": "George202610PrismPractice\\obj\\Debug\\net10.0-windows7.0\\App.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T08:32:13.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeModule",
+              "DocumentMoniker": "E:\\George202610PrismPractice\\HomeModule\\HomeModule.csproj",
+              "RelativeDocumentMoniker": "HomeModule\\HomeModule.csproj",
+              "ToolTip": "E:\\George202610PrismPractice\\HomeModule\\HomeModule.csproj",
+              "RelativeToolTip": "HomeModule\\HomeModule.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-17T07:39:01.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ModuleScanner.cs",
+              "DocumentMoniker": "E:\\George202610PrismPractice\\Common\\Attributes\\ModuleScanner.cs",
+              "RelativeDocumentMoniker": "Common\\Attributes\\ModuleScanner.cs",
+              "ToolTip": "E:\\George202610PrismPractice\\Common\\Attributes\\ModuleScanner.cs",
+              "RelativeToolTip": "Common\\Attributes\\ModuleScanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T06:29:08.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "App.xaml",
               "DocumentMoniker": "E:\\George202610PrismPractice\\George202610PrismPractice\\App.xaml",
               "RelativeDocumentMoniker": "George202610PrismPractice\\App.xaml",
@@ -195,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "AttributeDiagnostics.cs",
               "DocumentMoniker": "E:\\George202610PrismPractice\\Common\\Attributes\\AttributeDiagnostics.cs",
               "RelativeDocumentMoniker": "Common\\Attributes\\AttributeDiagnostics.cs",
@@ -203,13 +301,12 @@
               "RelativeToolTip": "Common\\Attributes\\AttributeDiagnostics.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAADgvx4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T06:49:50.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T06:49:50.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Common",
+              "DocumentIndex": 15,
+              "Title": "Common.csproj",
               "DocumentMoniker": "E:\\George202610PrismPractice\\Common\\Common.csproj",
               "RelativeDocumentMoniker": "Common\\Common.csproj",
               "ToolTip": "E:\\George202610PrismPractice\\Common\\Common.csproj",
@@ -221,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "E:\\George202610PrismPractice\\George202610PrismPractice\\Views\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "George202610PrismPractice\\Views\\MainWindow.xaml.cs",
@@ -229,12 +326,11 @@
               "RelativeToolTip": "George202610PrismPractice\\Views\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T06:39:55.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T06:39:55.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "GeorgeModuleAttribute.cs",
               "DocumentMoniker": "E:\\George202610PrismPractice\\Common\\Attributes\\GeorgeModuleAttribute.cs",
               "RelativeDocumentMoniker": "Common\\Attributes\\GeorgeModuleAttribute.cs",
@@ -242,12 +338,11 @@
               "RelativeToolTip": "Common\\Attributes\\GeorgeModuleAttribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T06:19:34.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T06:19:34.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "HomeViewModel.cs",
               "DocumentMoniker": "E:\\George202610PrismPractice\\HomeModule\\ViewModels\\HomeViewModel.cs",
               "RelativeDocumentMoniker": "HomeModule\\ViewModels\\HomeViewModel.cs",
@@ -255,24 +350,22 @@
               "RelativeToolTip": "HomeModule\\ViewModels\\HomeViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T03:23:35.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T03:23:35.216Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "HomeView.xaml",
               "DocumentMoniker": "E:\\George202610PrismPractice\\HomeModule\\Views\\HomeView.xaml",
               "RelativeDocumentMoniker": "HomeModule\\Views\\HomeView.xaml",
               "ToolTip": "E:\\George202610PrismPractice\\HomeModule\\Views\\HomeView.xaml",
               "RelativeToolTip": "HomeModule\\Views\\HomeView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-17T03:23:34.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T03:23:34.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "Menu.cs",
               "DocumentMoniker": "E:\\George202610PrismPractice\\George202610PrismPractice\\Share\\Menu.cs",
               "RelativeDocumentMoniker": "George202610PrismPractice\\Share\\Menu.cs",
@@ -280,12 +373,11 @@
               "RelativeToolTip": "George202610PrismPractice\\Share\\Menu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T05:14:40.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T05:14:40.847Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "E:\\George202610PrismPractice\\Login\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "Login\\ViewModels\\LoginViewModel.cs",
@@ -293,12 +385,11 @@
               "RelativeToolTip": "Login\\ViewModels\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T05:07:02.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T05:07:02.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "HomeView.xaml.cs",
               "DocumentMoniker": "E:\\George202610PrismPractice\\HomeModule\\Views\\HomeView.xaml.cs",
               "RelativeDocumentMoniker": "HomeModule\\Views\\HomeView.xaml.cs",
@@ -306,12 +397,11 @@
               "RelativeToolTip": "HomeModule\\Views\\HomeView.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T04:09:14.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T04:09:14.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "ViewNames.cs",
               "DocumentMoniker": "E:\\George202610PrismPractice\\George202610PrismPractice\\Share\\ViewNames.cs",
               "RelativeDocumentMoniker": "George202610PrismPractice\\Share\\ViewNames.cs",
@@ -319,12 +409,11 @@
               "RelativeToolTip": "George202610PrismPractice\\Share\\ViewNames.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T03:59:26.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T03:59:26.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "RegionNames.cs",
               "DocumentMoniker": "E:\\George202610PrismPractice\\George202610PrismPractice\\Share\\RegionNames.cs",
               "RelativeDocumentMoniker": "George202610PrismPractice\\Share\\RegionNames.cs",
@@ -332,12 +421,11 @@
               "RelativeToolTip": "George202610PrismPractice\\Share\\RegionNames.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T04:05:56.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T04:05:56.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "ModuleNames.cs",
               "DocumentMoniker": "E:\\George202610PrismPractice\\George202610PrismPractice\\Share\\ModuleNames.cs",
               "RelativeDocumentMoniker": "George202610PrismPractice\\Share\\ModuleNames.cs",
@@ -345,12 +433,7 @@
               "RelativeToolTip": "George202610PrismPractice\\Share\\ModuleNames.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T03:57:57.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2026-10-17T03:57:57.884Z"
             }
           ]
         }

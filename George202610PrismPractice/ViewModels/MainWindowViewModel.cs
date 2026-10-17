@@ -21,11 +21,11 @@ namespace George202610PrismPractice.ViewModels
     public class MainWindowViewModel : BindableBase
     {
         private List<Menu> _menus = new List<Menu>();
-        //{
-        //    new Menu() { MenuTitle = "Home", ModuleName = "HomeModule", ViewName = "HomeView" },
-        //    new Menu() { MenuTitle = "Login", ModuleName = "LoginModule", ViewName = "LoginView" }
-        //};
-        public List<Menu> Menus
+    //    {
+    //        new Menu() { MenuTitle = "Home", ModuleName = "HomeModule", ViewName = "HomeView" },
+    //        new Menu() { MenuTitle = "Login", ModuleName = "LoginModule", ViewName = "LoginView" }
+    //};
+    public List<Menu> Menus
         {
             get { return _menus; }
             set { SetProperty(ref _menus, value); }
@@ -48,24 +48,33 @@ namespace George202610PrismPractice.ViewModels
             RegionManager = regionManager;
             
             
+           
+
+
+        }
+
+        private DelegateCommand _loadedCommand;
+        public DelegateCommand LoadedCommand =>
+            _loadedCommand ?? (_loadedCommand = new DelegateCommand(ExecuteLoadedCommand));
+
+        void ExecuteLoadedCommand()
+        {
             string modulePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Modules");
             //AttributeDiagnostics.Dump(modulePath);
 
-
+            List<Menu> tempMenus = new List<Menu>();
             List<GeorgeModuleAttribute> moduleAttributes = ModuleScanner.GetGeorgeModuleAttributes(modulePath);
             foreach (var item in moduleAttributes)
             {
-                Menus.Add(new Menu()
+                tempMenus.Add(new Menu()
                 {
                     MenuTitle = item.MenuTitle,
                     ModuleName = item.ModuleName,
                     ViewName = item.ViewName
                 });
             }
-
-
+            Menus = tempMenus;
         }
-
        
     }
 }

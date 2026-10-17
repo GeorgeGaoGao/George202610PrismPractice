@@ -11,6 +11,7 @@ E:\George202610PrismPractice\Common\obj\Debug\net6.0-windows\Common.GeneratedMSB
 E:\George202610PrismPractice\Common\obj\Debug\net6.0-windows\Common.AssemblyInfoInputs.cache
 E:\George202610PrismPractice\Common\obj\Debug\net6.0-windows\Common.AssemblyInfo.cs
 E:\George202610PrismPractice\Common\obj\Debug\net6.0-windows\Common.csproj.CoreCompileInputs.cache
+E:\George202610PrismPractice\Common\obj\Debug\net6.0-windows\Common.sourcelink.json
 E:\George202610PrismPractice\Common\obj\Debug\net6.0-windows\Common.dll
 E:\George202610PrismPractice\Common\obj\Debug\net6.0-windows\refint\Common.dll
 E:\George202610PrismPractice\Common\obj\Debug\net6.0-windows\Common.pdb

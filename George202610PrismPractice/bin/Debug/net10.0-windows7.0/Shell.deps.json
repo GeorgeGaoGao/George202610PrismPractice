@@ -8,8 +8,7 @@
     ".NETCoreApp,Version=v10.0": {
       "Shell/1.0.0": {
         "dependencies": {
-          "HomeModule": "1.0.0",
-          "Login": "1.0.0",
+          "Common": "1.0.0",
           "Prism.Unity": "8.1.97"
         },
         "runtime": {
@@ -85,30 +84,6 @@
             "fileVersion": "1.0.0.0"
           }
         }
-      },
-      "HomeModule/1.0.0": {
-        "dependencies": {
-          "Common": "1.0.0",
-          "Prism.Wpf": "8.1.97"
-        },
-        "runtime": {
-          "HomeModule.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
-      "Login/1.0.0": {
-        "dependencies": {
-          "Common": "1.0.0",
-          "Prism.Wpf": "8.1.97"
-        },
-        "runtime": {
-          "Login.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
       }
     }
   },
@@ -161,16 +136,6 @@
       "hashPath": "unity.container.5.11.11.nupkg.sha512"
     },
     "Common/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "HomeModule/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Login/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

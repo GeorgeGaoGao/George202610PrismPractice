@@ -9,4 +9,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Common\Common.csproj" />
   </ItemGroup>
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="xcopy &quot;$(ProjectDir)\bin\Debug\net10.0-windows7.0\$(ProjectName).dll&quot; &quot;$(SolutionDir)\George202610PrismPractice\bin\Debug\net10.0-windows7.0\Modules\&quot; /Y /S &#xD;&#xA;xcopy &quot;$(ProjectDir)\bin\Release\net10.0-windows7.0\$(ProjectName).dll&quot; &quot;$(SolutionDir)\George202610PrismPractice\bin\Release\net10.0-windows7.0\Modules\&quot; /Y /S " />
+  </Target>
 </Project>

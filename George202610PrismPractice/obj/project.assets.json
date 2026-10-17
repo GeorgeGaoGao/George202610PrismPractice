@@ -115,40 +115,6 @@
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WPF"
         ]
-      },
-      "HomeModule/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v10.0",
-        "dependencies": {
-          "Common": "1.0.0",
-          "Prism.Wpf": "8.1.97"
-        },
-        "compile": {
-          "bin/placeholder/HomeModule.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/HomeModule.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.WindowsDesktop.App.WPF"
-        ]
-      },
-      "Login/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v10.0",
-        "dependencies": {
-          "Common": "1.0.0",
-          "Prism.Wpf": "8.1.97"
-        },
-        "compile": {
-          "bin/placeholder/Login.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Login.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.WindowsDesktop.App.WPF"
-        ]
       }
     }
   },
@@ -322,22 +288,11 @@
       "type": "project",
       "path": "../Common/Common.csproj",
       "msbuildProject": "../Common/Common.csproj"
-    },
-    "HomeModule/1.0.0": {
-      "type": "project",
-      "path": "../HomeModule/HomeModule.csproj",
-      "msbuildProject": "../HomeModule/HomeModule.csproj"
-    },
-    "Login/1.0.0": {
-      "type": "project",
-      "path": "../Login/Login.csproj",
-      "msbuildProject": "../Login/Login.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0-windows7.0": [
-      "HomeModule >= 1.0.0",
-      "Login >= 1.0.0",
+      "Common >= 1.0.0",
       "Prism.Unity >= 8.1.97"
     ]
   },
@@ -375,11 +330,8 @@
           "framework": "net10.0-windows7.0",
           "targetAlias": "net10.0-windows7.0",
           "projectReferences": {
-            "E:\\George202610PrismPractice\\HomeModule\\HomeModule.csproj": {
-              "projectPath": "E:\\George202610PrismPractice\\HomeModule\\HomeModule.csproj"
-            },
-            "E:\\George202610PrismPractice\\Login\\Login.csproj": {
-              "projectPath": "E:\\George202610PrismPractice\\Login\\Login.csproj"
+            "E:\\George202610PrismPractice\\Common\\Common.csproj": {
+              "projectPath": "E:\\George202610PrismPractice\\Common\\Common.csproj"
             }
           }
         }

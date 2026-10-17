@@ -7,6 +7,7 @@ using Prism.Regions;
 namespace Home
 {
     [GeorgeModule(MenuTitle = "Home", ModuleName = "HomeModule", ViewName = "HomeView")]
+   
     public class HomeModule : IModule
     {
         public void OnInitialized(IContainerProvider containerProvider)

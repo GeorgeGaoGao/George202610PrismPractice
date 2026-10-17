@@ -1,6 +1,4 @@
 ﻿using George202610PrismPractice.Views;
-using Home;
-using Login;
 using Prism.Ioc;
 using Prism.Modularity;
 using System;
