@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Common/Common.csproj" />
+  <Project Path="George202610PrismPractice/Shell.csproj" />
+  <Project Path="HomeModule/HomeModule.csproj" />
+  <Project Path="Login/Login.csproj" />
+</Solution>

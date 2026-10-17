@@ -1,0 +1,17 @@
+E:\George202610PrismPractice\HomeModule\bin\Debug\net6.0-windows\HomeModule.deps.json
+E:\George202610PrismPractice\HomeModule\bin\Debug\net6.0-windows\HomeModule.dll
+E:\George202610PrismPractice\HomeModule\bin\Debug\net6.0-windows\HomeModule.pdb
+E:\George202610PrismPractice\HomeModule\obj\Debug\net6.0-windows\HomeModule.csproj.AssemblyReference.cache
+E:\George202610PrismPractice\HomeModule\obj\Debug\net6.0-windows\Views\HomeView.baml
+E:\George202610PrismPractice\HomeModule\obj\Debug\net6.0-windows\Views\HomeView.g.cs
+E:\George202610PrismPractice\HomeModule\obj\Debug\net6.0-windows\HomeModule_MarkupCompile.cache
+E:\George202610PrismPractice\HomeModule\obj\Debug\net6.0-windows\HomeModule.g.resources
+E:\George202610PrismPractice\HomeModule\obj\Debug\net6.0-windows\HomeModule.GeneratedMSBuildEditorConfig.editorconfig
+E:\George202610PrismPractice\HomeModule\obj\Debug\net6.0-windows\HomeModule.AssemblyInfoInputs.cache
+E:\George202610PrismPractice\HomeModule\obj\Debug\net6.0-windows\HomeModule.AssemblyInfo.cs
+E:\George202610PrismPractice\HomeModule\obj\Debug\net6.0-windows\HomeModule.csproj.CoreCompileInputs.cache
+E:\George202610PrismPractice\HomeModule\obj\Debug\net6.0-windows\HomeModule.dll
+E:\George202610PrismPractice\HomeModule\obj\Debug\net6.0-windows\refint\HomeModule.dll
+E:\George202610PrismPractice\HomeModule\obj\Debug\net6.0-windows\HomeModule.pdb
+E:\George202610PrismPractice\HomeModule\obj\Debug\net6.0-windows\ref\HomeModule.dll
+E:\George202610PrismPractice\HomeModule\obj\Debug\net6.0-windows\HomeModule.csproj.Up2Date

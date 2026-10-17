@@ -1,0 +1,17 @@
+E:\George202610PrismPractice\Login\bin\Debug\net6.0-windows\Login.deps.json
+E:\George202610PrismPractice\Login\bin\Debug\net6.0-windows\Login.dll
+E:\George202610PrismPractice\Login\bin\Debug\net6.0-windows\Login.pdb
+E:\George202610PrismPractice\Login\obj\Debug\net6.0-windows\Login.csproj.AssemblyReference.cache
+E:\George202610PrismPractice\Login\obj\Debug\net6.0-windows\Views\LoginView.baml
+E:\George202610PrismPractice\Login\obj\Debug\net6.0-windows\Views\LoginView.g.cs
+E:\George202610PrismPractice\Login\obj\Debug\net6.0-windows\Login_MarkupCompile.cache
+E:\George202610PrismPractice\Login\obj\Debug\net6.0-windows\Login.g.resources
+E:\George202610PrismPractice\Login\obj\Debug\net6.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+E:\George202610PrismPractice\Login\obj\Debug\net6.0-windows\Login.AssemblyInfoInputs.cache
+E:\George202610PrismPractice\Login\obj\Debug\net6.0-windows\Login.AssemblyInfo.cs
+E:\George202610PrismPractice\Login\obj\Debug\net6.0-windows\Login.csproj.CoreCompileInputs.cache
+E:\George202610PrismPractice\Login\obj\Debug\net6.0-windows\Login.dll
+E:\George202610PrismPractice\Login\obj\Debug\net6.0-windows\refint\Login.dll
+E:\George202610PrismPractice\Login\obj\Debug\net6.0-windows\Login.pdb
+E:\George202610PrismPractice\Login\obj\Debug\net6.0-windows\ref\Login.dll
+E:\George202610PrismPractice\Login\obj\Debug\net6.0-windows\Login.csproj.Up2Date
