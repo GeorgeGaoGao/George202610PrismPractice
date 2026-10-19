@@ -28,6 +28,14 @@
         <!--<Button Content="Home" Command="{Binding NavigateCommand}" CommandParameter="HomeView" Margin="5"/>   
             <Button Content="Login" Command="{Binding NavigateCommand}" CommandParameter="LoginView" Margin="5"/>-->
         <!--</StackPanel>-->
-        <ContentControl Grid.Column="1" prism:RegionManager.RegionName="ContentRegion" />
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Button Grid.Row="0" Content="点击弹出对话框" Width="200" Height="40" Command="{Binding OpenDialogCommand}"/>
+            <ContentControl Grid.Row="1" prism:RegionManager.RegionName="ContentRegion" />
+        </Grid>
+        
     </Grid>
 </Window>

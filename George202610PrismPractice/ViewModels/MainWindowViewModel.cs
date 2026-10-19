@@ -1,13 +1,15 @@
 ﻿using Common.Attributes;
+using Common.Events;
 using George202610PrismPractice.Share;
 using Prism.Commands;
+using Prism.Dialogs;
+using Prism.Events;
 using Prism.Mvvm;
-using Prism.Regions;
+using Prism.Navigation.Regions;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.IO;
-using System.Windows.Automation;
+using System.Threading.Tasks;
 
 namespace George202610PrismPractice.ViewModels
 {
@@ -31,6 +33,8 @@ namespace George202610PrismPractice.ViewModels
             set { SetProperty(ref _menus, value); }
         }
         public IRegionManager RegionManager { get; set; }
+        public IDialogService DialogService { get; set; }
+        public IEventAggregator EventAggregator { get; set; }
 
         private DelegateCommand<string> _navigateCommand;
         public DelegateCommand<string> NavigateCommand =>
@@ -43,14 +47,12 @@ namespace George202610PrismPractice.ViewModels
 
 
 
-        public MainWindowViewModel(IRegionManager regionManager)
+        public MainWindowViewModel(IRegionManager regionManager,IDialogService dialogService,
+            IEventAggregator eventAggregator)
         {
             RegionManager = regionManager;
-            
-            
-           
-
-
+            DialogService = dialogService;
+            EventAggregator = eventAggregator;
         }
 
         private DelegateCommand _loadedCommand;
@@ -74,6 +76,33 @@ namespace George202610PrismPractice.ViewModels
                 });
             }
             Menus = tempMenus;
+        }
+
+        private DelegateCommand _openDialogCommand;
+        public DelegateCommand OpenDialogCommand =>
+            _openDialogCommand ?? (_openDialogCommand = new DelegateCommand(ExecuteOpenDialog));
+
+        async void ExecuteOpenDialog()
+        {
+            IDialogParameters dialogParameters = new DialogParameters();
+            dialogParameters.Add("dataIn", "this is the string was brought in.");
+            dialogParameters.Add("dataIn2", "this is the string was brought in.2");
+            DialogService.Show("MyMessageBox", dialogParameters, result =>
+            {
+                if (result.Result == ButtonResult.OK)
+                {
+                    string stringResult = result.Parameters.GetValue<string>("res");
+                    // Handle OK result
+                }
+                else if (result.Result == ButtonResult.Cancel)
+                {
+                    // Handle Cancel result
+                }
+            });
+            await Task.Delay(5000);
+
+
+            EventAggregator.GetEvent<CloseDialogEvent>().Publish();
         }
        
     }

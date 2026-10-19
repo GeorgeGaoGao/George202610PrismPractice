@@ -4,13 +4,13 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Prism.Wpf" Version="8.1.97" />
+    <PackageReference Include="Prism.Unity" Version="9.0.537" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Common\Common.csproj" />
   </ItemGroup>
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-    <Exec Command="xcopy &quot;$(ProjectDir)\bin\Debug\net10.0-windows7.0\$(ProjectName).dll&quot; &quot;$(SolutionDir)\George202610PrismPractice\bin\Debug\net10.0-windows7.0\Modules\&quot; /Y /S &#xD;&#xA;xcopy &quot;$(ProjectDir)\bin\Release\net10.0-windows7.0\$(ProjectName).dll&quot; &quot;$(SolutionDir)\George202610PrismPractice\bin\Release\net10.0-windows7.0\Modules\&quot; /Y /S &#xD;&#xA;" />
+    <Exec Command="xcopy &quot;$(ProjectDir)\bin\Debug\net10.0-windows7.0\$(ProjectName).dll&quot; &quot;$(SolutionDir)\Shell\bin\Debug\net10.0-windows7.0\Modules\&quot; /Y /S &#xD;&#xA;xcopy &quot;$(ProjectDir)\bin\Release\net10.0-windows7.0\$(ProjectName).dll&quot; &quot;$(SolutionDir)\Shell\bin\Release\net10.0-windows7.0\Modules\&quot; /Y /S &#xD;&#xA;" />
   </Target>
 
 

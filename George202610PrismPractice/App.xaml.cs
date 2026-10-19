@@ -1,6 +1,8 @@
 ﻿using George202610PrismPractice.Views;
 using Prism.Ioc;
 using Prism.Modularity;
+using Shell.ViewModels;
+using Shell.Views;
 using System;
 using System.IO;
 using System.Windows;
@@ -19,7 +21,7 @@ namespace George202610PrismPractice
 
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
         {
-
+            containerRegistry.RegisterDialog<MyMessageBox, MyMessageBoxViewModel>();
         }
         protected override void ConfigureModuleCatalog(IModuleCatalog moduleCatalog)
         {

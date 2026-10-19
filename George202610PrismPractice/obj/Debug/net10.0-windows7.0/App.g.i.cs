@@ -10,12 +10,12 @@
 //------------------------------------------------------------------------------
 
 using George202610PrismPractice;
+using Prism.Dialogs;
 using Prism.Interactivity;
 using Prism.Ioc;
 using Prism.Mvvm;
-using Prism.Regions;
-using Prism.Regions.Behaviors;
-using Prism.Services.Dialogs;
+using Prism.Navigation.Regions;
+using Prism.Navigation.Regions.Behaviors;
 using Prism.Unity;
 using System;
 using System.Diagnostics;
